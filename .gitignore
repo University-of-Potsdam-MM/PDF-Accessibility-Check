@@ -1,0 +1,5 @@
+.settings
+.classpath
+.project
+build
+/WebContent/WEB-INF/lib/pdfbox-app-1.8.6.jar
