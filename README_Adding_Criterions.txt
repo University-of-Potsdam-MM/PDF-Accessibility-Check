@@ -1,4 +1,4 @@
-Introduction to add new check criterions: 
+Introduction to add new check criteria: 
 =========================================
 - in PDF-Accessibility-Check/src/de/unipotsdam/cs/mm/pdfac/CriterionDB.java:
 	- at the end of the enum "CriterionDB" add the name of the new criterion
