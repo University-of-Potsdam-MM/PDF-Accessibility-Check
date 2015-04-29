@@ -10,3 +10,5 @@ After deploying the .war the functionality can be checked by entering this url i
 The thirdparty lib for PDFBox is NOT contained in this git. Please download it yourself from https://pdfbox.apache.org/download.cgi and put it in the directory /WebContent/WEB-INF/lib. Tested with pdfbox-app-1.8.6.jar.
 
 Also see "README_Adding_Criterions.txt" for adding new criterions to the server.
+
+This server was developed for the Moodle Plugin "MoodlePlugin_PDFChecker". More information about this can be found here: https://github.com/University-of-Potsdam-MM/MoodlePlugin_PDFChecker
