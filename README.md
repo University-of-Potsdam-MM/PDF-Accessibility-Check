@@ -2,8 +2,8 @@
 
 This REST webservice checks local PDF files for their accessibility.
 To use this webservice the following things are required:
-* [Apache Tomcat](https://tomcat.apache.org/)
-* Java
+* [Apache Tomcat](https://tomcat.apache.org/),
+* Java (both [OpenJDK](http://openjdk.java.net/) and [Oracle Java SE](http://www.oracle.com/technetwork/java/javase/index.html) should work).
 
 After deploying the `.war` the functionality can be checked by entering this url in a browser (on the same system): http://localhost:8080/PDF-Accessibility-Check/rest/helloJson
 
